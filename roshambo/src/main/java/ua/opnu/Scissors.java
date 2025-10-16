@@ -1,8 +1,8 @@
 package ua.opnu;
 
-public class GameShape {
+public class Scissors extends GameShape {
     @Override
     public String toString() {
-        return "Game Shape";
+        return "Scissors";
     }
 }
